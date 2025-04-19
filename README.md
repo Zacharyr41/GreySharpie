@@ -19,7 +19,7 @@ It should also handle constraints on the matching market itself:
 - Finding points of equilibrium without a strictly stable matching  
 - Uneven numbers of proposers/proposees  
 
-> **Note:** This video provides an excellent overview of the type of thinking that this engine will attempt to mimic.
+> **Note:** [This video](https://www.youtube.com/watch?v=h8MCtdYS0vo&ab_channel=selcukozyurt) provides an excellent overview of the type of thinking that this engine will attempt to mimic.
 
 ---
 
